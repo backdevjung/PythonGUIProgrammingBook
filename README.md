@@ -1,2 +1,0 @@
-# PythonGUIProgrammingBook
- following a book
