@@ -15,7 +15,7 @@ win = tk.Tk()
 win.title("Python GUI")
 
 # Disable resizing the GUI by passing in False/False (width/height)
-win.resizable(False, False)
+win.resizable(False, True)
 
 #======================================
 # Start GUI
